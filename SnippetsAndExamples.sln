@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPatterExample", "Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarateTrainingObserverExample", "KarateTrainingObserverExample\KarateTrainingObserverExample.csproj", "{207FC70D-8F6C-475A-8C33-75F58411CAAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPatternExample", "DecoratorPatternExampe\DecoratorPatternExample.csproj", "{FD240507-6C14-426A-976D-1BE2D31F8D9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{207FC70D-8F6C-475A-8C33-75F58411CAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{207FC70D-8F6C-475A-8C33-75F58411CAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{207FC70D-8F6C-475A-8C33-75F58411CAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

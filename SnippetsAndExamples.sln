@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionExample", "DependencyInjectionExample\DependencyInjectionExample.csproj", "{34CFC5DF-15F1-4E5C-8717-E5A3633A947A}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarateTrainingObserverExample", "KarateTrainingObserverExample\KarateTrainingObserverExample.csproj", "{207FC70D-8F6C-475A-8C33-75F58411CAAF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPatternExample", "DecoratorPatternExampe\DecoratorPatternExample.csproj", "{FD240507-6C14-426A-976D-1BE2D31F8D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern", "RepositoryPattern\RepositoryPattern.csproj", "{4CDB432A-A58C-48CD-84B7-513B5FFD61BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternWeb", "RepositoryPatternWeb\RepositoryPatternWeb.csproj", "{D7D2D24F-763D-430D-BA4F-5852C052FD83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD240507-6C14-426A-976D-1BE2D31F8D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDB432A-A58C-48CD-84B7-513B5FFD61BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDB432A-A58C-48CD-84B7-513B5FFD61BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDB432A-A58C-48CD-84B7-513B5FFD61BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDB432A-A58C-48CD-84B7-513B5FFD61BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D2D24F-763D-430D-BA4F-5852C052FD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D2D24F-763D-430D-BA4F-5852C052FD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D2D24F-763D-430D-BA4F-5852C052FD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D2D24F-763D-430D-BA4F-5852C052FD83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

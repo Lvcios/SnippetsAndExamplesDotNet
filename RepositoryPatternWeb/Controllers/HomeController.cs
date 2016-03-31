@@ -21,6 +21,7 @@ namespace RepositoryPatternWeb.Controllers
             this._planetRepository = planetRepository;
         }
         // GET: Home
+        [OutputCache(Duration = 10)]
         public ActionResult Index()
         {
             _planetRepository.List();
